@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi there! I'm Ahmad Shabbaah 👋
 
+![Banner Profile](img/Banner%20LinkedIn%20Budi%20Luhur.png)
+
+I'm currently learning machine learning, deep learning, and computer vision.
 <!--
 **ahmdbahh/ahmdbahh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
